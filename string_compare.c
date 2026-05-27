@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main ()
+int main()
 {
     // declare two string arrays
     char a[100], b[100];
